@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tombol Teks</description>
+   <name>5.Tombol Teks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8cd1dc-2272-4416-9098-e9cf9cb8493d</testCaseGuid>
+   <variable>
+      <defaultValue>'Kecil'</defaultValue>
+      <description></description>
+      <id>dbeb2c45-2aba-4713-a0b9-53e967d1deaf</id>
+      <masked>false</masked>
+      <name>kecil</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sedang'</defaultValue>
+      <description></description>
+      <id>58c08edf-1b0e-41b5-9b7c-f04aa7a6837f</id>
+      <masked>false</masked>
+      <name>sedang</name>
+   </variable>
+   <variable>
+      <defaultValue>'Besar'</defaultValue>
+      <description></description>
+      <id>fb541cca-6e19-41ee-9479-cb04f72aa893</id>
+      <masked>false</masked>
+      <name>besar</name>
+   </variable>
+</TestCaseEntity>
